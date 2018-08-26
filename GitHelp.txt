@@ -43,3 +43,21 @@ concept guides. See 'git help <command>' or 'git help <concept>'
 to read about a specific subcommand or concept.
 
 Admin@shag-17 MINGW64 //Shag-1/sharing for you/Git
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+test
